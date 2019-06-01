@@ -1,0 +1,97 @@
+body{
+  background: rgb(220,220,220);
+  color: #696D7D;
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+  margin: 0px 0px 0px 0px;
+/*  margin-left: 50px;
+  margin-top: 50px;*/
+}
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+  color: #6F9283;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+h2 {
+  font-family: 'Open Sans', sans-serif;
+  color: #8d9f87;
+  font-weight: lighter;
+  font-size: 16px;
+  padding: 10px;
+}
+
+a {
+  color: #6F9283;
+  font-size: 20px;
+}
+
+a:hover {
+  text-decoration: none;
+  /*font-size: 20px;*/
+  color: #CDC6A5;
+}
+
+/*Custom Design*/
+
+#banner{
+  text-align: center;
+  background-image: url("images/backcosmo.jpeg");
+/*background-image: url("https://unsplash.it/1300/600?random")*/
+  /*background-image: url(https://ak6.picdn.net/shutterstock/videos/5166206/thumb/1.jpg);*/
+  background-size: cover;
+  padding: 150px 0px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+#banner h1 {
+  color: white;
+  font-size: 50px;
+  text-shadow: 0.3px 0.3px 0.3px grey;
+}
+
+#banner p {
+	font-size: 30px;
+	font-weight: lighter;
+}
+
+.section {
+	padding: 50px;
+	text-align: center;
+	font-weight: lighter;
+}
+
+#footer {
+	background: #218c70;
+	color: lightgrey;
+	padding: 50px;
+}
+
+.fab {
+	color: rgb(220,220,220);
+	font-size: 30px;
+}
+
+.fab:hover {
+	color: white;
+	cursor: none;
+}
+
+
+/*#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+.section{
+  padding: 50px;
+  font-weight: lighter;
+}*/
